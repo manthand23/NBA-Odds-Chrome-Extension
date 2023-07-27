@@ -1,0 +1,11 @@
+{
+    "name": "NBA Players Bettings Odds",
+    "version": "1.0.0",
+    "description": "This is an extension where users can see the betting odds for NBA players.",
+    "manifest_version": 3,
+    "author": "Manthan Desai",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "NBA Players Bettings Odds"
+    }
+}
